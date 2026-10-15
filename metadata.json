@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Ads Size-Specific Keyword Studio",
+  "description": "Enterprise SKU size extraction, size-specific and design-level keyword engine, conflict and cross-advertising protection, negative keyword approvals, and Amazon bulk template export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
